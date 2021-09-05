@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Install: com/mucahit/fontdemo/Installer.class
+OpenIDE-Module-Localizing-Bundle: com/mucahit/fontdemo/Bundle.properties
+OpenIDE-Module-Requires: org.openide.windows.WindowManager
+
